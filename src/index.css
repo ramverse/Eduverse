@@ -33,3 +33,10 @@ a{
     border: 0;
     outline: 0;
 }
+
+.btn.dark-bth{
+    display: flex;
+    
+    background: #212ea0;
+    color: #fff;
+}
